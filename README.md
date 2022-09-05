@@ -1,0 +1,1 @@
+A backup of quick python challenges I did in a day to achieve the "game leader" rank in my school. What "game leader" entails is still unknown to me to this day.
